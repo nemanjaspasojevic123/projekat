@@ -1,0 +1,12 @@
+.user-img{
+    background-image: url(../../assets/profile.png);
+    width: 150px;
+    height: 150px;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align:center;
+    margin:auto;
+    padding:0;
+   
+}
